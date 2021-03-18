@@ -1,2 +1,3 @@
 head1 file with first changes
 head1 file with changes made from the git repo
+head1 file with a new changes made from the git repo
