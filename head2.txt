@@ -1,1 +1,2 @@
 this is the first file with no changes 
+a new change in head 2 from git repo
